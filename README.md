@@ -289,5 +289,5 @@ Proyek ini dikembangkan sebagai sistem internal untuk keperluan program **Makan 
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ untuk Badan Gizi Nasional — SPPG Sukasejati 2</sub>
+  <sub>Dibuat oleh Muharomarrizki Viandra untuk Badan Gizi Nasional — SPPG </sub>
 </div>

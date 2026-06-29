@@ -1,4 +1,4 @@
-# 🍱 Sistem Manajemen SPPG Sukasejati 2
+# 🍱 Sistem Manajemen SPPG
 ### Badan Gizi Nasional — Web-Based Management System
 
 > Sistem Informasi Manajemen berbasis web multi-user untuk mengotomatisasi seluruh aliran operasional **Satuan Pelayanan Pemenuhan Gizi (SPPG)** Sukasejati 2 — dari Perencanaan, Pengadaan, Pergudangan, Produksi, Distribusi, hingga Laporan Keuangan secara **real-time**.
@@ -289,5 +289,5 @@ Proyek ini dikembangkan sebagai sistem internal untuk keperluan program **Makan 
 ---
 
 <div align="center">
-  <sub>Dibuat dengan ❤️ untuk Badan Gizi Nasional — SPPG Sukasejati 2</sub>
+  <sub>Dibuat oleh Muharomarrizki Viandra untuk Badan Gizi Nasional — SPPG </sub>
 </div>
